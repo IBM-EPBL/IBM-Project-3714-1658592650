@@ -1,0 +1,4 @@
+2022-11-15 22:28:06,666   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinC:Dustbin3
+2022-11-15 22:48:49,125   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinC:Dustbin3
+2022-11-15 22:56:03,614   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-15 22:56:23,993   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinC:Dustbin3

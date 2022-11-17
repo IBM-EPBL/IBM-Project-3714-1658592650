@@ -1,0 +1,6 @@
+2022-11-15 22:12:01,041   ibmiotf.device.Client      CRITICAL Failed to connect to IBM Watson IoT Platform: 08mif4.messaging.internetofthings.ibmcloud.com - [Errno 11001] getaddrinfo failed
+2022-11-15 22:14:23,571   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinA:Dustbin2
+2022-11-15 22:48:36,233   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinA:Dustbin2
+2022-11-15 23:15:58,710   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-15 23:16:02,320   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinA:Dustbin2
+2022-11-17 20:30:22,187   ibmiotf.device.Client      INFO    Connected successfully: d:08mif4:DustbinA:Dustbin2
