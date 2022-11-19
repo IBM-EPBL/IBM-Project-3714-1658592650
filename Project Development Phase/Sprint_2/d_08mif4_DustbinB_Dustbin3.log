@@ -1,0 +1,1 @@
+2022-11-15 22:13:09,158   ibmiotf.device.Client      CRITICAL Failed to connect to IBM Watson IoT Platform: 08mif4.messaging.internetofthings.ibmcloud.com - [Errno 11001] getaddrinfo failed
